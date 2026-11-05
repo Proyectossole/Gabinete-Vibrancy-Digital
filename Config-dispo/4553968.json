@@ -1,5 +1,6 @@
 {
-    "VersionConfig": 2,
+    "VersionConfig": 3,
     "Placa": "GCV-002",
-    "IdP": "e8b1b3cef1c031093e3fa5503a296a98"
+    "IdP": "e8b1b3cef1c031093e3fa5503a296a98",
+    "Flotador": "NC"
 }
